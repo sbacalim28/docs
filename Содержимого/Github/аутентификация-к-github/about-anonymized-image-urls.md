@@ -1,3 +1,4 @@
+
 ---
 title: About anonymized image URLs
 intro: 'If you upload an image to {% data variables.product.product_name %}, the URL of the image will be modified so your information is not trackable.'
